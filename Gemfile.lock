@@ -210,7 +210,7 @@ GEM
     pg (1.6.2-aarch64-linux-musl)
     pg (1.6.2-x86_64-linux)
     pg (1.6.2-x86_64-linux-musl)
-    pgvector (0.2.2)
+    pgvector (0.3.2)
     pp (0.6.3)
       prettyprint
     prettyprint (0.2.0)
@@ -406,7 +406,7 @@ DEPENDENCIES
   jbuilder
   kamal
   pg (~> 1.1)
-  pgvector (~> 0.2.2)
+  pgvector (~> 0.3.2)
   propshaft
   puma (>= 5.0)
   rails (~> 8.0.3)
